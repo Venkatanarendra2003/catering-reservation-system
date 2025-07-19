@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CaterHub - Catering Reservation and Ordering System
 
 A comprehensive web-based catering management system built with HTML, CSS, JavaScript, and Firebase. This system allows users to browse catering services, place orders, and enables administrators to manage products, orders, and users efficiently.
@@ -333,3 +334,6 @@ For support and questions:
 
 **Built with ❤️ for promoting traditional Indian catering culture**
 \`\`\`
+=======
+# -Catering-Reservation-and-Ordering-System
+>>>>>>> a5ce1d470a0a55d3c8afc5a62ca919297db39e34
